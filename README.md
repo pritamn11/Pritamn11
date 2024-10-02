@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Pritam Narwade</h3>
-<h3 align="center">Currently learning Python 🐍</h3>
+<h3 align="center">Currently learning NLP 📝📚</h3>
 
 
 
